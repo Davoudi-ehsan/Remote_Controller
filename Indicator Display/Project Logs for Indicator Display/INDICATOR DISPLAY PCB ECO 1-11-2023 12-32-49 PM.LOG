@@ -1,0 +1,12 @@
+Added Component: Designator=D9(LED RED 3MM S)
+Added Component: Designator=D10(LED RED 3MM S)
+Added Component: Designator=D11(LED RED 3MM S)
+Added Component: Designator=D12(LED RED 3MM S)
+Added Pin To Net: NetName=NetD9_1 Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=NetD10_2 Pin=D10-2
+Added Pin To Net: NetName=NetD11_1 Pin=D11-1
+Added Pin To Net: NetName=NetD11_2 Pin=D11-2
+Added Pin To Net: NetName=NetD12_1 Pin=D12-1
+Added Pin To Net: NetName=NetD12_2 Pin=D12-2
